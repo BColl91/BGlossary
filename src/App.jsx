@@ -99,7 +99,15 @@ const glossaryItems = [
     term: "Audio Control",
     description: "Controlling audio playback using currentTime and play."
   },
-      // {
+      {
+    term: ".toString()",
+    description: "a built-in method provided by JavaScript to convert various types of values to their string representation. For example, 123..toString() converts the number 123 to the string 123 "
+  },
+   {
+    term: "Map()",
+    description: "allows you to do anything with each element in an array per turn."
+  },
+  // {
   //   term: ,
   //   description: 
   // },
